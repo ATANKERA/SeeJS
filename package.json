@@ -1,8 +1,7 @@
 {
-  "name": "JavaScriptVisualizer",
+  "name": "SeeJS",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tylermcginnis.com/javascript-visualizer/",
   "dependencies": {
     "acorn": "^6.0.2",
     "clipboard-copy": "^2.0.1",
